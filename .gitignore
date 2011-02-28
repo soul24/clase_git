@@ -1,0 +1,4 @@
+*.swp
+*~
+public/uno
+!public/uno/blacklist.txt
